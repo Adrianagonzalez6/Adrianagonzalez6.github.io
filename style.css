@@ -1,0 +1,30 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgb(192, 91, 91);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; 
+    border-radius:10px 10px;
+}
+.title {
+    color: blueviolet;
+    font-size: 18px ;
+}
+
+button {
+    border: none;
+    outline: 0px;
+    display: inline-block ;
+    padding: 8px;
+    color: cadetblue ;
+    background-color: black;
+    text-align: center;
+    cursor: pointer;
+    width: 100px;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    font-size: 28px;
+    color: black;
+}
